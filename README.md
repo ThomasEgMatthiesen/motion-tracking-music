@@ -1,5 +1,5 @@
 # Motion tracking music
-This Maxpatch uses camera input to detect movement in an area. The movement activates playback of 12 individual instrument tracks, depending on which field the motion occurs in. If no motion is detected the instruments fade out, making it possible to explore the different musical contents of each tracks.
+This Maxpatch employs camera input to detect movement in a designated area. When movement is detected, it triggers the playback of 12 individual instrument tracks, depending on the specific field where the motion occurs. Conversely, if no motion is detected, the instruments gradually fade out, allowing users to explore the varied musical contents of each track. This interactive setup encourages playful engagement and dancing as users interact with the system.
 
 ## MIDI-routing
 ![Patch overview](images/patch.png)
